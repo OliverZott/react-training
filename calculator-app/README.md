@@ -15,4 +15,6 @@
 
 ## Remarks
 
-- [reducer](https://reactjs.org/docs/hooks-reference.html#usereducer)
+- reducer
+  - [Docs](https://reactjs.org/docs/hooks-reference.html#usereducer)
+  - [Docs](https://beta.reactjs.org/learn/extracting-state-logic-into-a-reducer)
