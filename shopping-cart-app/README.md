@@ -14,6 +14,10 @@
 
 ## Remarks
 
+- Navbar
+  - [react-bootstrap](https://react-bootstrap.github.io/components/navbar/)
+  - [bootstrap](https://getbootstrap.com/docs/4.0/components/navbar/)
+
 ### Available Scripts
 
 In the project directory, you can run:
